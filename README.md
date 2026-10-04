@@ -98,3 +98,10 @@ Captura estática del trabajo original. Sus textos sobre efectividad de campaña
 Para reproducir el análisis se necesita una base compatible con PostgreSQL con las cinco tablas originales y permisos de consulta. Ejecutar los archivos SQL en orden, en **la misma sesión**, ya que la preparación crea una vista temporal. Revisar los resultados del QA antes de continuar; claves repetidas en las dimensiones pueden multiplicar las ventas.
 
 No se incluyen datos originales, credenciales, un dashboard interactivo ni un archivo Excel editable. Las imágenes incluidas son las evidencias disponibles del proyecto.
+
+## Limitaciones
+
+- Proyecto académico presentado como caso de negocio; no corresponde a una consultoría para una empresa real.
+- Los importes no tienen moneda confirmada ni homogeneidad entre mercados.
+- Los resultados provienen de las capturas del análisis original. Los archivos SQL de este repositorio están reorganizados y no se han ejecutado contra la base original, que no se incluye.
+- La relación beneficio bruto / campañas no es un ROI neto, y no demuestra que el marketing haya causado las ventas.
