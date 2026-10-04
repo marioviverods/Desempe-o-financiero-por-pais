@@ -1,14 +1,20 @@
-# Análisis del desempeño financiero con SQL
+# Desempeño financiero por país con SQL
 
-**Mario Alberto Vivero | Portafolio de análisis de datos**
+**Mario Alberto Vivero Sahagún | SQL · Excel · Google Sheets**
 
-Análisis de ventas, costos de producto y gasto de marketing en seis países para comparar volumen de negocio, margen bruto y cobertura del gasto de campañas. Proyecto académico presentado como caso de negocio; no corresponde a una consultoría para una empresa real.
-
-**Herramientas:** SQL con sintaxis PostgreSQL, Excel y Google Sheets.
+Comparación de ventas, costos de producto y gasto de campañas en seis países para identificar qué mercados generan más ingresos y beneficio bruto.
 
 ## Pregunta de negocio
 
 ¿Qué mercados generan más ingresos y beneficio bruto, y cómo se relaciona ese beneficio con el gasto de campañas registrado?
+
+## Hallazgo clave
+
+- **Estados Unidos lidera** en ingresos (3.35 millones) y en la relación entre beneficio bruto y gasto de campañas (75.75%).
+- **Canadá tiene el mayor margen bruto** (44.76%), pero la menor cobertura del gasto de campañas (17.43%).
+- **En los seis países, el beneficio bruto es menor que el gasto de campañas registrado.**
+
+**Qué recomiendo:** validar la moneda y el periodo del gasto antes de mover presupuestos, y revisar el desglose por campaña en Canadá y Francia.
 
 ## Resultados principales
 
