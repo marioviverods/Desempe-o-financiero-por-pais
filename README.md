@@ -1,4 +1,4 @@
-# Desempeño financiero por país con SQL
+# Desempeño financiero por país
 
 **Mario Alberto Vivero Sahagún | SQL · Excel · Google Sheets**
 
